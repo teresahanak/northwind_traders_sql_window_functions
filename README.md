@@ -6,3 +6,4 @@ Modified schema from [Dataquest](https://app.dataquest.io/c/144/m/777/guided-pro
 
 
 The original database schema is available [here](https://github.com/pthom/northwind_psql/blob/master/ER.png).
+
